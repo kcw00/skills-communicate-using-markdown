@@ -2,6 +2,7 @@
 ### `<h3>` header
 ###### `<h6>` header
 
+![Image of macaroon](https://img.freepik.com/free-psd/macaroon-isolated-transparent-background_191095-35017.jpg?t=st=1734508475~exp=1734512075~hmac=47776d56e2b22d2822ee6dddee46fe3953beafd98a5517335ab3e72027c0e87c&w=996)
 
 
 
@@ -14,5 +15,4 @@
 
 
 
-
-// I added <h1>, <h3>, and <h6> tags to this file
+// I added an image to this file
