@@ -8,6 +8,9 @@
 char* str = "Hello, world!";
 ```
 
+- [x] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -18,4 +21,5 @@ char* str = "Hello, world!";
 
 
 
-// I added a c code to this file
+
+// I added a task list to this file
